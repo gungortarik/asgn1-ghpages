@@ -11,4 +11,4 @@
 - [Markdown Guide](https://www.markdownguide.org/)
 
 ## Weekly Notes Page
-- [COMP1238 Weekly Notes](comp1238.html)
+- [COMP1238 Weekly Notes](comp1238.md)
