@@ -9,3 +9,6 @@
 - [GitHub](https://github.com/)
 - [W3Schools](https://www.w3schools.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+
+## Weekly Notes Page
+- [COMP1238 Weekly Notes](comp1238.html)
