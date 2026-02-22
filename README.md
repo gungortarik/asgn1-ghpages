@@ -10,5 +10,10 @@
 - [W3Schools](https://www.w3schools.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+## Links
+- [D2L](https://learn.georgebrown.ca)
+- [AtKlass](https://app.atklass.com)
+- [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
+
 ## Weekly Notes Page
 - [COMP1238 Weekly Notes](comp1238.md)
